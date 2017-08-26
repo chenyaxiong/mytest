@@ -1,5 +1,6 @@
 public void TestClass{
 	public static void main(Stirng[] args){
 	system.out.printlin("hello world");
+	system.out.println("添加了一句话");
 	}
 }
